@@ -22,7 +22,7 @@ You can **use the code directly** in your project — controller, routes, and ma
 ![Success Screenshot](screenshots/success.PNG)
 
 ### Email Template
-![Email Screenshot](screenshots/email_template.PNG)
+![Email Screenshot](screenshots/Email_template.PNG)
 
 ## 📦 Installation
 
