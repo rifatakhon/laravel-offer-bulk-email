@@ -16,13 +16,13 @@ You can **use the code directly** in your project — controller, routes, and ma
 
 ---
 ### Form UI
-![Form Screenshot](screenshots/form.png)
+![Form Screenshot](screenshots/form.PNG)
 
 ### Success Message
-![Success Screenshot](screenshots/success.png)
+![Success Screenshot](screenshots/success.PNG)
 
 ### Email Template
-![Email Screenshot](screenshots/email_template.png)
+![Email Screenshot](screenshots/email_template.PNG)
 
 ## 📦 Installation
 
