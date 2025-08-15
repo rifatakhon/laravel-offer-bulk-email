@@ -15,6 +15,14 @@ You can **use the code directly** in your project — controller, routes, and ma
 - Works out-of-the-box with Laravel 10  
 
 ---
+### Form UI
+![Form Screenshot](screenshots/form.png)
+
+### Success Message
+![Success Screenshot](screenshots/success.png)
+
+### Email Template
+![Email Screenshot](screenshots/Email_template.PNG)
 
 ## 📦 Installation
 
@@ -26,6 +34,7 @@ cp .env.example .env
 php artisan key:generate
 
 ---
+
 
 ⚙️ Configuration
 
